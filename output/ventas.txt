@@ -1,0 +1,4 @@
+Anna Guzman ,manzanas,10,8.50,85.00,0.00,85.00,Efectivo
+Anna Guzman ,flores,15,11.52,172.80,0.00,172.80,Efectivo
+Emiliano Lopez,Pintura,10,50.00,500.00,25.00,475.00,Tarjeta
+Jose Tumax,Legos,15,150.99,2264.85,113.24,2151.61,Transferencia
